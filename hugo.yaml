@@ -2,3 +2,18 @@ baseURL: "https://goldenscaled.net/"
 languageCode: "en-us"
 title: "Golden Scaled"
 theme: "PaperMod"
+enableEmoji: true
+params:
+  profileMode:
+    enabled: true
+    title: "Golden Scaled :fish:" # optional default will be site title
+    subtitle: ":b:-Tree Pilled Development"
+    imageUrl: "https://static.vecteezy.com/system/resources/previews/036/913/988/original/watercolor-japanese-koi-fish-png.png"
+    imageTitle: "Koi Fish" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: Posts
+        url: "/posts"
+      - name: Github
+        url: "https://github.com/"
