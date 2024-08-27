@@ -2,9 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://goldenscaled.net/categories/</loc>
-  </url><url>
     <loc>https://goldenscaled.net/</loc>
+    <lastmod>2024-08-27T00:34:14-04:00</lastmod>
+  </url><url>
+    <loc>https://goldenscaled.net/posts/</loc>
+    <lastmod>2024-08-27T00:34:14-04:00</lastmod>
+  </url><url>
+    <loc>https://goldenscaled.net/categories/</loc>
   </url><url>
     <loc>https://goldenscaled.net/tags/</loc>
   </url>
