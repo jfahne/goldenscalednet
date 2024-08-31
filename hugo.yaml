@@ -16,4 +16,4 @@ params:
       - name: Posts
         url: "/posts"
       - name: Github
-        url: "https://github.com/"
+        url: "https://github.com/goldenscaled"
